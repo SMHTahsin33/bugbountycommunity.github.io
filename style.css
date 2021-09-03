@@ -12,14 +12,14 @@ body{
 }
 @font-face {
 	font-family: 'pacifica-condensed-regular';
-	src: url(pacificacondensedregular.ttf);
+	src: url(../bugbountycommunitybd/pacificacondensedregular.ttf);
 	font-style: normal;
 	font-weight: 100%
 }
 
 @font-face {
 	font-family: 'impact';
-	src: url(URWImpactW01Bold.ttf);
+	src: url(../bugbountycommunitybd/URWImpactW01Bold.ttf);
 	font-style: normal;
 	font-weight: 100%
 }
