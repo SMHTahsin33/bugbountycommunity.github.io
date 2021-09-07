@@ -10,7 +10,7 @@
         <ul>
             <li><a href="index.html">HOME</a></li>
             <li><a href="https://youtu.be/RHgl098XtD8">BUG HUNT 2022</a></li>
-            <li><a class="current" href="contribute">CONTRIBUTE</a></li>
+            <li><a class="current" href="contribute.html">CONTRIBUTE</a></li>
             <li><a href="https://twitter.com/bbcbd_official">CONTACT</a></li>
         </ul>
     </nav>
