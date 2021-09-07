@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+    <meta http-equiv="refresh" content="3;url=https://docs.google.com/forms/d/e/1FAIpQLSfScPMtp92sIIHR1YS3HRm97qv0Y957IqsIcDO74F1cmlicEQ/viewform?usp=sf_link" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<html>
+<body>
+    <nav>
+        <img src="https://i.imgur.com/PQEDkNG.png" class="lg">
+        <ul>
+            <li><a href="index.html">HOME</a></li>
+            <li><a href="https://youtu.be/RHgl098XtD8">BUG HUNT 2022</a></li>
+            <li><a class="current" href="contribute">CONTRIBUTE</a></li>
+            <li><a href="https://twitter.com/bbcbd_official">CONTACT</a></li>
+        </ul>
+    </nav>
+    <h1 style="font-size: 50px;text-align: center;font-family: Impact">THANK YOU FOR SHOWING INTEREST IN CONTRIBUTING TO OUR EVENT<br>"BUG HUNT 2021"</h1>
+    <br><br>
+    <h2 style="font-size:25px;text-align: center;font-family: Impact">YOU ARE BEING REDIRECTED TO OUR CONTRIBUTION FORM!</h2>
+</div>
+</body>
+</html>
